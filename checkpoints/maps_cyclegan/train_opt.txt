@@ -9,7 +9,7 @@
                 direction: AtoB                          
               display_env: main                          
              display_freq: 400                           
-               display_id: -1                            	[default: 1]
+               display_id: 1                             
             display_ncols: 4                             
              display_port: 8097                          
            display_server: http://localhost              
@@ -42,7 +42,7 @@
               niter_decay: 100                           
                no_dropout: True                          
                   no_flip: False                         
-                  no_html: True                          	[default: False]
+                  no_html: False                         
                      norm: instance                      
               num_threads: 4                             
                 output_nc: 3                             
