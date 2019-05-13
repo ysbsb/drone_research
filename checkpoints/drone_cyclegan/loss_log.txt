@@ -1,0 +1,5 @@
+================ Training Loss (Mon May 13 15:07:25 2019) ================
+(epoch: 1, iters: 100, time: 0.179, data: 0.146) D_A: 0.445 G_A: 0.552 cycle_A: 2.043 idt_A: 0.619 D_B: 0.477 G_B: 0.311 cycle_B: 1.272 idt_B: 0.966 
+(epoch: 1, iters: 200, time: 0.181, data: 0.002) D_A: 0.176 G_A: 0.554 cycle_A: 2.581 idt_A: 0.456 D_B: 0.246 G_B: 0.374 cycle_B: 1.085 idt_B: 1.154 
+(epoch: 1, iters: 300, time: 0.180, data: 0.002) D_A: 0.137 G_A: 0.602 cycle_A: 2.214 idt_A: 0.425 D_B: 0.208 G_B: 0.415 cycle_B: 0.888 idt_B: 1.042 
+(epoch: 1, iters: 400, time: 0.323, data: 0.002) D_A: 0.242 G_A: 0.907 cycle_A: 2.401 idt_A: 0.465 D_B: 0.150 G_B: 0.300 cycle_B: 0.930 idt_B: 1.035 
